@@ -1,5 +1,5 @@
 # Bookstore-Management-System
-# CBSE class 12 project, first attempt at a reudimentary backend management code
+# CBSE class 12 project, first attempt at a rudimentary backend management code
 #----------------------------------------------------------
 #BOOK STORE MANAGEMENT SYSTEM
 #----------------------------------------------------------
